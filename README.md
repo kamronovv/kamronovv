@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
 <h3 align="left">Connect with me:</h3>
-<h5 align="left">Phone: +998900907022</h5>
-<h5 align="left">Emile: Kamronvv@gmail.com</h5>
-<h5 align="left">My Web site: https://kamrondev.vercel.app/</h5>
+<h6 align="left">Phone: +998900907022</h6>
+<h6 align="left">Emile: Kamronvv@gmail.com</h6>
+<h6 align="left">My Web site: https://kamrondev.vercel.app/</h6>
 <p align="left">
 </p>
 
